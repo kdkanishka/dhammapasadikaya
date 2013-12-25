@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.7" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="undecorated" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jButton5" min="-2" pref="51" max="-2" attributes="0"/>
+              <EmptySpace pref="297" max="32767" attributes="0"/>
+              <Component id="jButton3" min="-2" pref="51" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jButton4" min="-2" pref="51" max="-2" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Component id="jScrollPane2" alignment="0" pref="476" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane2" min="-2" pref="344" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jButton3" alignment="0" min="-2" pref="40" max="-2" attributes="1"/>
+                  <Component id="jButton4" alignment="0" min="-2" pref="40" max="-2" attributes="1"/>
+                  <Component id="jButton5" alignment="0" min="-2" pref="40" max="-2" attributes="1"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTree" name="jTree2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tipitaka_Sinhala1" size="18" style="0"/>
+            </Property>
+            <Property name="model" type="javax.swing.tree.TreeModel" editor="org.netbeans.modules.form.editors2.TreeModelEditor">
+              <TreeModel code="ucCOSu ksldh&#xa;        uQ,mKakdil *uq,a iQ;1 mKi(        &#xa;                uQ, mrshdh iQ;1h&#xa;                inzndij iQ;1h&#xa;                NhffNrj iQ;1h&#xa;                Ouzu odhdo iQ;1h&#xa;                wkX.K iQ;1h&#xa;                wdlXzfLhH iQ;1h&#xa;                j;a: iQ;1h&#xa;                i,af,aL iQ;1h&#xa;                iuzudosgzGs iQ;1h&#xa;                i;smgGdk iq;1h&#xa;                pQ, iSykdo iQ;1h&#xa;                uyd isykdo iQ;1h&#xa;                uyd oqlaLlaLJO iQ;1h&#xa;                pQ, oqlaLlaLJO iQ;1h&#xa;                wkqudk iQ;1h&#xa;                fpf;dLs, iQ;1h&#xa;                jkm;a: iQ;1h&#xa;                uOq msKvl iq;1h&#xa;                fZjOd js;lal iq;1h&#xa;                js;ll iKaGdk iq;1h&#xa;                llpqmu iq;1h&#xa;                w,.oaoqmu iq;1h&#xa;                jususl iQ;1h&#xa;                r: jskS; iQ;1h&#xa;                kssjdm iQ;1h&#xa;                wrsh mrsfhik iQ;1h&#xa;                pQ,yF:smfodmu iQ;1h&#xa;                uydyF:smfodmu iQ;1h&#xa;                uyd idfrdmu iQ;1h&#xa;                pq,idfrdmu iq;1h&#xa;                pq,f.disX. iq;1h&#xa;                uyd f.disX. iq;1h&#xa;                uyd f.dmd, iQ;1h&#xa;                pQ, f.dmd,l iQ;1h&#xa;                pQ, ipzpl iQ;1h&#xa;                uyd ipzpl iQ;1h&#xa;                pq, ;Kayd ixLh iq;1h&#xa;                uyd ;Kayd ixLh iq;1h&#xa;                uyd wiaimqr iq;1h&#xa;                pQ, wiaimqr iQ;1h&#xa;                idf,hHl iQ;h&#xa;                fjr[aPl iQ;1h&#xa;                uyd fjo,a, iQ;1h&#xa;                pQ, fjo,a, iQ;1h&#xa;                pQ, Ouu iudodk iQ;1h&#xa;                uyd Ouu iudodk iQ;1h&#xa;                jSuxik iQ;1h&#xa;                fldiuznsh iQ;1h&#xa;                n1yau ksuka;Ksl iQ;1h&#xa;                udr ;cAckSh iQ;1h&#xa;        ucaCOsu mKaKdilh        &#xa;                wgzGl kd.r iQ;1h&#xa;                fiL iQ;1h&#xa;                fmd;,sh iQ;1h&#xa;                cSjl iQ;1h&#xa;                Wmd,s iQ;1h&#xa;                l2lal2rj;sh iQ;1h&#xa;                wNh *rdcl2udr( iQ;1h&#xa;                nyqfjokSh iQ;1h&#xa;                wmKaKl iQ;1h&#xa;                wuzn,gzGsl rdyqf,djdo iQ;1h&#xa;                uyd rdyqf,dajdo iQ;1h&#xa;                pq, ud,QXlH iq;1h&#xa;                ud,qZZXlH iQ;1h&#xa;                Noaod,s iQ;1h&#xa;                ,gqlsfldmu iQ;1h&#xa;                pd;2u iQ;1h&#xa;                k,lmdk iQ;1h &#xa;                .2,siaidks iQ;1h&#xa;                lSgd.srs iQ;1h&#xa;                f;jscAcjpzPf.d;a; iQ;1h&#xa;                w.a.sjpzPf.d;a; iQ;1h&#xa;                uydjpzPf.d;a; iQ;1h&#xa;                oS kL iQ;1h&#xa;                ud.kaosh iQ;1h&#xa;                iJol iQ;1h&#xa;                uyd il2,qodhiQ;1h&#xa;                iuK uKavsl iQ;1h&#xa;                pQ, il2ZModhS iQ;1h&#xa;                fjLK iQ;1h&#xa;                gSldr iQ;1h&#xa;                rgzGmd, iQ;1h&#xa;                uLdfoj iQ;1h&#xa;                udOqr iQ;1h&#xa;                fndOsrdc l2udr iQ;1h&#xa;                wx.2,sud, iQ;1h&#xa;                msh cd;sl iQ;1h&#xa;                ndys;sl iQ;1h&#xa;                Ouzufp;sh iQ;1h&#xa;                lKaKlF:, iQ;1h&#xa;                n1yaudhq iQ;1h&#xa;                fia, iQ;1h&#xa;                wiai,dhk iQ;1h&#xa;                fdaguqL iQ;1h&#xa;                pxlS iQ;1h&#xa;                tiqldrS iQ;1h&#xa;                Odk[acdks iQ;1h&#xa;                jdfigzG iQ;1h&#xa;                iqN iQ;1h&#xa;                iXz.drj iQ;1h&#xa;        Wmrs mKaKdilh        &#xa;                foajoy iQ;1h&#xa;                m[a[;a;h iQ;1h&#xa;                lska;s iQ;1h&#xa;                idu.du iQ;1h&#xa;                iqklaL;a; iQ;1h&#xa;                wdfk[ac imamdh iQ;1h&#xa;                .Kl fud.a.,a,dk iQ;1h&#xa;                f.dml fud.a.,a,dk iQ;1h&#xa;                uyd mqKaKud iQ;1h&#xa;                pq, mqkakud iq;1h&#xa;                wkqmo iQ;1h&#xa;                Pnzns fidOk iQ;1h&#xa;                imamqrsi iQ;1h&#xa;                fijs;nznd fijs;nzn iQ;1h&#xa;                nyqOd;2l iQ;1h&#xa;                bis.s,s iQ;1h&#xa;                uyd p;a;drSil iQ;1h&#xa;                wdkdmdk i;s iQ;1h&#xa;                ldh .;d i;s iQ;1h&#xa;                ixLdremam;a;s iQ;1h&#xa;                pQ, iq[a[; iQ;1h&#xa;                uyd iq[a[; iQ;1h&#xa;                wdYaphH! Ou! iQ;1h&#xa;                nlal2, iQ;1h&#xa;                oka;N@us iQ;1h&#xa;                N@usc iQ;1h&#xa;                wkqreoaZO iQ;1h&#xa;                Wmlaf,Y iQ;1h&#xa;                nd, mKavs; iQ;1h&#xa;                foajoq; iq;1h&#xa;                Noafolr;a; iQ;1h&#xa;                wdkkao Noafolr;a; iQ;1h&#xa;                uyd lpzpdhk Noafoalr;a; iQ;1h&#xa;                f,duilZX.sh Noafolr;a; iQ;1h&#xa;                pQ,luzu jsNZO. iQ;1h&#xa;                uydluzu jsNZO. iQ;1h&#xa;                i&lt;dh;k jsNZv. iQ;1h&#xa;                Woafoai jsNZv. iQ;1h&#xa;                wrK jsNZXz. iQ;1h&#xa;                Od;2 jsNX. iQ;1h&#xa;                ipzpjsNZO. iQ;1h&#xa;                olaLsKjsNx. iQ;1h&#xa;                wkd: msKavsfldjdo iQ;1h&#xa;                Pkafkdjdo iQ;1h&#xa;                mqKafKdajdo iQ;1h&#xa;                kkaofldjdo iQ;1h&#xa;                pQ, rdyqf,dajdo iQ;1h&#xa;                cPlal iQ;1h"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jTree2MouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton5">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/tip.png"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/search.png"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton4">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/close.png"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
