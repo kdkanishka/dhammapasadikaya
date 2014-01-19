@@ -4,6 +4,7 @@
  */
 package ui;
 
+import java.awt.Font;
 import java.io.File;
 import java.io.IOException;
 import utils.Launcher;
@@ -46,6 +47,7 @@ public class ResultPane extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
+        jEditorPaneResultPage.setContentType("text/html"); // NOI18N
         jScrollPane1.setViewportView(jEditorPaneResultPage);
 
         jToolBar1.setRollover(true);
@@ -73,8 +75,8 @@ public class ResultPane extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 633, Short.MAX_VALUE)
-            .addComponent(jToolBar1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(jScrollPane1)
+            .addComponent(jToolBar1, javax.swing.GroupLayout.DEFAULT_SIZE, 633, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
