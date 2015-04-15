@@ -1,0 +1,3 @@
+This is a project based on tripitaka translated by metta.lk . This project is implemented using java technology. All rights are reserved by the author and it published under GPL(GNU Public License). It is free for non commercial use.
+
+මෙම ව්‍යාපෘතිය උතුම් ත්‍රිපිඨකය පාදක කරගත් එකකි. මෙමගින් metta.lk හි ඇති බාගත කරගත් තිපිටකය තුල සෙවීම කල හැක. මෙම ව්‍යාපෘතිය සඳහා ජාවා තාක්ෂණය යොදාගෙන ඇත. GNU Public License  එක යටතේ මෙය බෙදාහැරේ. එම නිසා වාණිජමය නොවන අරමුණු සඳහා නොමිලේ භාගත කිරීම හා නොමිලේ බෙදා හැරීම කල හැකිය.
